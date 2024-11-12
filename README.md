@@ -1,9 +1,9 @@
 
 <h1 align="center"> Top 9 Rental Business Ideas to Launch a Profitable Venture in 2025 </h1>
 
-The rental economy is booming and the best revenue-generating businesses are fueled by the popularity of platforms like Airbnb, Turo, and more. As consumer preferences shift toward experiences over ownership, rental businesses are becoming a lucrative option for entrepreneurs. If you're looking to start your profitable venture, consider these [Top 9 Rental Business Ideas](https://sangvish.com/clone-scripts/) for 2025, complete with solutions like Airbnb clones, Turo clones, hotel booking scripts, and more to assist you in becoming the best entrepreneur in a short time. 
-
 <div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“rentalbusinessideas.png" src="https://github.com/sangvishtechnologies/rental-business-ideas/blob/main/images/top-9-rental-business-ideas.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>  
+
+The rental economy is booming and the best revenue-generating businesses are fueled by the popularity of platforms like Airbnb, Turo, and more. As consumer preferences shift toward experiences over ownership, rental businesses are becoming a lucrative option for entrepreneurs. If you're looking to start your profitable venture, consider these [Top 9 Rental Business Ideas](https://sangvish.com/clone-scripts/) for 2025, complete with solutions like Airbnb clones, Turo clones, hotel booking scripts, and more to assist you in becoming the best entrepreneur in a short time. 
 
 ## Top 9 Rental Business Ideas: 
 ### 1. Vacation Rental Platform (Airbnb Clone)
@@ -21,7 +21,9 @@ A [Turo clone](https://sangvish.com/turo-clone/) lets you tap into the growing m
 * Reduces the overhead of maintaining a fleet by allowing users to list their own cars.
 * Equipped with features like insurance management, driver verification, and GPS tracking.
 * Provides the suitability to specialize in premium cars, friendly cars or  affordable cost vehicles.
-  
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“rentalbusinessideas.png" src="https://github.com/sangvishtechnologies/rental-business-ideas/blob/main/images/rental-business.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>  
+
 ### 3. Hotel Booking Platform (Hotel Booking Script)
 If you’re interested in entering the hospitality industry, a [hotel booking script](https://sangvish.com/hotel-booking-script/) allows you to build a platform similar to popular hotel booking sites. This business idea is perfect for aggregating hotel listings and providing travelers with easy booking options.
 
